@@ -3,4 +3,4 @@ token:
   secret: this_is_so_fucking_bad_jwt_test_please_give_me_200_success_ecommerce_haha
 
 gateway:
-  ip: 192.168.0.29
+  ip: 172.30.96.23 # 192.168.0.29
