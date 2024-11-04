@@ -1,6 +1,0 @@
-token:
-  expiration_time: 864000000
-  secret: my_ecommerce_yml_file_secret_token_prod # this_is_so_fucking_bad_jwt_test_please_give_me_200_success_ecommerce_haha
-
-gateway:
-  ip: 172.30.96.23 # 192.168.0.29
