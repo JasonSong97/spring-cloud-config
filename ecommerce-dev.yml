@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: this_is_so_fucking_bad_jwt_test_please_give_me_200_success_ecommerce_default
+  secret: this_is_so_fucking_bad_jwt_test_please_give_me_200_success_ecommerce_dev
 
 gateway:
   ip: 192.168.0.8 #172.30.96.23 # 192.168.0.29
